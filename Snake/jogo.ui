@@ -23,7 +23,11 @@
    </size>
   </property>
   <property name="windowTitle">
-   <string>Form</string>
+   <string>Jogo Snake</string>
+  </property>
+  <property name="windowIcon">
+   <iconset>
+    <normaloff>../Imagens/cobra.png</normaloff>../Imagens/cobra.png</iconset>
   </property>
   <property name="styleSheet">
    <string notr="true">background : rgb(0, 0, 0);</string>
